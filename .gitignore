@@ -1,0 +1,22 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.o
+obj/
+*.out
+
+# saved model files
+*.bin
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Nsight Systems
+*.nsys-rep
+*.sqlite
